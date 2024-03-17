@@ -1,4 +1,4 @@
-# Solana Snakes
+# Satoshi Squad
 
 Project Overview
 
