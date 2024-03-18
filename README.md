@@ -10,7 +10,7 @@ Project Overview
     * Databases: MongoDB or PostgreSQL
     * AI-driven scheduling
     * Machine learning for personalized recommendations
-    * Secure payment gateways like Stripe or PayPal
+    * Secure payment gateways like Razorpay
     * Real-time communication protocols such as WebSockets or Firebase
 
 * Future Prospects:
