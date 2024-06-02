@@ -1,4 +1,4 @@
-# Satoshi Squad
+## Satoshi Squad
 
 Project Overview
 
