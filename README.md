@@ -24,6 +24,6 @@ Project Overview
     * Incorporates feedback mechanisms for continuous improvement.
     * Aims to revolutionize pet shopping and grooming online, setting new standards in convenience and satisfaction.
 
-Web Host (URL) : https://satoshisquad.tech/
+Web Host (URL) : https://satoshisquad.tech
 
-Framework named RNE which has helped us a lot in Backend and it is completely deployed in this website --> [skynetbee.com](https://www.skynetbee.com/)https://www.skynetbee.com/
+Framework named RNE which has helped us a lot in Backend and it is completely deployed in this website --> [skynetbee.com](https://www.skynetbee.com/)https://www.skynetbee.com
